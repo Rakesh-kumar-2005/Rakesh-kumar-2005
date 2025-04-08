@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Rakesh Kumar Mohanty</h1>
-<h3 align="center">A visionary code architect from India</h3>
+
+<div align="center">
+  <img width="700" height="250" src="https://github.com/Rakesh-kumar-2005/Rakesh-kumar-2005/blob/main/assets/Intro.gif"  />
+</div>
 
 ---
 
-<div align="center">
-  <img width="500" height="300" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  />
-</div>
+<h1 align="center">Hi 👋, I'm Rakesh Kumar Mohanty</h1>
+<h3 align="center">A visionary code architect from India</h3>
 
 ---
 
