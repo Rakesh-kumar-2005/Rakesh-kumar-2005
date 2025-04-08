@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="700" height="250" src="https://github.com/Rakesh-kumar-2005/Rakesh-kumar-2005/blob/main/assets/Intro.gif"  />
+  <img width="700" height="250" src="https://github.com/Rakesh-kumar-2005/Rakesh-kumar-2005/blob/main/assets/"  />
 </div>
 
 ---
