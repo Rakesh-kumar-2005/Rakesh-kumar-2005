@@ -61,6 +61,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github.com/Rakesh-kumar-2005/Rakesh-kumar-2005/blob/main/assets/img.png" width="100%" alt="Cosmic Quote"/>
-</p>
+<div align="center">
+  <img width="700" height="300" src="https://github.com/Rakesh-kumar-2005/Rakesh-kumar-2005/blob/main/assets/outro.gif" />
+</div>
