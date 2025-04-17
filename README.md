@@ -34,6 +34,9 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rakesh412005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rakesh-kumar-mohanty) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/Rakesh-Kumar-Mohanty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohantyrakesh802@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=white)](https://leetcode.com/rakesh_kumar_mohanty04)  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/mohantyran18o)  [![Dev.to](https://img.shields.io/badge/DEV.to-0A0A0A?logo=devdotto&logoColor=white)](https://dev.to/rakesh_kumarmohanty_3c12)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&logoColor=white)](https://www.codechef.com/users/rakeshkm)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&logoColor=white)](https://codeforces.com/profile/rakesh2005)
+
 
 --------------------------------------------------------------------------------------------------------
 
