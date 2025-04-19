@@ -56,10 +56,11 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rakesh-kumar-2005&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
+
 <br/>
 
 <p align="left">
-  <img src="https://img.shields.io/static/v1?label=Profile%20Views&message=1.2K+%2B&color=ffffff&style=for-the-badge&labelColor=000000&logo=github&logoColor=ffffff&font=monospace" alt="Profile views" />
+  <img src="https://img.shields.io/static/v1?label=Profile%20Views&message=1.5K+%2B&color=ffffff&style=for-the-badge&labelColor=000000&logo=github&logoColor=ffffff&font=monospace" alt="Profile views" />
 </p>
 
 <br/>
