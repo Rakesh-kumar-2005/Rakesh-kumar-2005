@@ -8,6 +8,9 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar Mohanty</h1>
 <h3 align="center">A visionary code architect from India</h3>
 
+![](https://komarev.com/ghpvc/?username=Rakesh-kumar-2005&color=3b0070&label=Code+Mates)
+
+
 ---
 
 ###
@@ -69,9 +72,6 @@
 
 <br/>
 
-<p align="left">
-  <img src="https://img.shields.io/static/v1?label=Profile%20Views&message=1.5K+%2B&color=ffffff&style=for-the-badge&labelColor=000000&logo=github&logoColor=ffffff&font=monospace" alt="Profile views" />
-</p>
 
 <br/>
 
