@@ -13,9 +13,6 @@
 
 ---
 
-
-###
-
 ## 💫 About Me
 
 - 🔭 Currently working on: Flutter & Spring Boot projects...  
