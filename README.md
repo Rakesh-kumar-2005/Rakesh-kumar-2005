@@ -30,7 +30,7 @@
   - 🏆 Become a full-stack Web3 developer & App developer... 
   - ✍️ Write technical blogs and share knowledge...  
   
-  ---
+---
 
 <div align="center">
 
