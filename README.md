@@ -8,7 +8,7 @@
 
 <h3 align="center">A visionary code architect from India</h3>
 
-![](https://komarev.com/ghpvc/?username=Rakesh-kumar-2005&color=3b0070&label=Code+Mates)
+![](https://komarev.com/ghpvc/?username=Rakesh-kumar-2005&color=3b0070&label=Code+Mates) 
 
 ---
 
